@@ -1,1 +1,1 @@
-print("I learned to link ti github")
+print("I learned to link to github")
